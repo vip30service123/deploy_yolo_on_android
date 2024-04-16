@@ -1,0 +1,3 @@
+briefcase
+opencv-python
+pillow
